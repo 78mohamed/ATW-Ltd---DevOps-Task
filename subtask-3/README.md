@@ -60,3 +60,15 @@ Even if someone knows your device MAC address, that knowledge certainly doesn’
 Both MAC addresses and IP addresses are used by a TCP/IP networks for different purposes. IP addresses are assigned as part of connecting to a network, and MAC addresses are assigned at the time hardware is manufactured.
 
 All devices on the same network have unique MAC addresses. Therefore MAC addresses can be easily used when diagnosing network issues, such as problems with IP addresses. The reason is MAC addresses never change, as opposed to a dynamic IP address, which can change from time to time. Therefore MAC address make a more reliable way to identify senders and receivers of data on the network when diagnosing network issues.
+
+## Switches
+A switch is a network device that connects devices on a local network. Switches use MAC addresses to forward data packets between devices on the same network. Switches are often used to create local area networks (LANs) in homes and offices.
+
+## Routers
+A router is a network device that connects multiple networks together. Routers use IP addresses to forward data packets between networks. Routers are used to create wide area networks (WANs) and connect devices to the internet.
+
+## Routing protocols
+Routing protocols are algorithms used by routers to exchange information about network topology and to determine the best path for forwarding data packets between networks. Routing protocols include protocols such as OSPF, BGP, and RIP.
+
+
+In summary, IP addresses and MAC addresses are used to identify and locate devices on a network, switches are used to connect devices on a local network, routers are used to connect multiple networks together, and routing protocols are used to determine the best path for forwarding data packets between networks.
