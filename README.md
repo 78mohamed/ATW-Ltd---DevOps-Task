@@ -6,6 +6,7 @@ The steps for creating github repo are the following:-
 ``` git clone https://github.com/78mohamed/ATW-Ltd---DevOps-Task.git ```
 * we made a branch on our local system called feature using the cmd: 
 ``` git branch feature && git checkout feature```
+* we use the *.gitignore* file so we won't allow files with secret variables like .env to be pushed.
 * then began our work through the project when we finshed we used:
 ``` git add . && git commit -m "final version" ```
 * we meged our local main and feature branch using the following:
