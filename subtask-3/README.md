@@ -20,4 +20,7 @@ But instead of this we can ask aws to generate the key it self then we download 
 ``` ssh -i /path/to/private/key.pem username@instance-ip-address ```
 
 # Networking Basics
+Here we will talk about five Networking Basics concepts.
 ## IP address
+Each device connected to the internet has a unique identifier. Most networks today, including all computers on the internet, use the TCP/IP as a standard to communicate on the network. In the TCP/IP protocol, this unique identifier is the IP Address. The two kinds of IP Addresses are IPv4 and IPv6.
+<img src="[ URL](https://miro.medium.com/v2/resize:fit:640/format:webp/1*T-XFf3kOvko_are9ayCJKg.png)https://miro.medium.com/v2/resize:fit:640/format:webp/1*T-XFf3kOvko_are9ayCJKg.png" alt="ALT TEXT" width="WIDTH" height="HEIGHT" style="display: block; margin: auto;">
