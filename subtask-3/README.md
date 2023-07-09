@@ -14,5 +14,10 @@ here we used console using the following steps:-
 First let's talk about the traditional method with any linux server:
 * Generate an SSH key pair: Before you can connect to an EC2 instance using SSH, you need to generate an SSH key pair. You can do this using tools like ssh-keygen.
 * Add the public key to the EC2 instance: Once you have generated an SSH key pair, you need to add the public key to the EC2 instance. You can do this either when launching the instance or by modifying the instance's security group settings.
+
+
 But instead of this we can ask aws to generate the key it self then we download it to access out EC2 instance using th cmd:
 ``` ssh -i /path/to/private/key.pem username@instance-ip-address ```
+
+# Networking Basics
+## IP address
