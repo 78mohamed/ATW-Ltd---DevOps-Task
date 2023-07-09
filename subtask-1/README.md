@@ -24,4 +24,5 @@ it prints hello world and hello visitor message and show the time and the ip add
 * the composer used to instal dotenv libirary tohelp us read from .env file in index.php.
 
 * **output pictures:**
-* hosted website & db table
+hosted website & db table
+![Alt Text](https://github.com/78mohamed/ATW-Ltd---DevOps-Task/blob/main/subtask-1/website.png?raw=true)
